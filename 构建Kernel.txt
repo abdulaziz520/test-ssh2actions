@@ -27,3 +27,4 @@ curl -sL https://git.io/file-transfer | sh
 
 ./transfer wet out/arch/arm64/boot/Image.gz-dtb
       
+ 
